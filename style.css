@@ -89,6 +89,7 @@ main {
 
 .mainImage>p {
     font-family: "Lexend Deca", serif;
+    text-align: center;
     font-size: 10pt;
     margin: 0.3rem 0 0 0;
 }
